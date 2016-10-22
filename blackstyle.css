@@ -1,0 +1,210 @@
+.toptext {
+	margin: 2em 0em 1em 8em;
+	text-align: left;
+	
+}
+
+form {
+	text-align: left;
+	margin-left: 25%;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+body {
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+
+
+.title {
+	margin:0 auto;
+	text-align: center;
+}
+
+.bytext {
+	margin: 1em 4em 0em 0em;
+	text-align: right;
+}
+.button {
+	
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	
+}
+.water {
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	overflow: hidden;
+	z-index:-1;
+	top: 40%;
+}
+
+.header {
+	text-align: center;
+	margin: 10px 50px 20px 0px;
+	font-family: reprise stamp;
+	width: 100%;
+	position: relative;
+}
+ h2 {
+	margin: 0px 40px 0px 0px;
+}
+.navigation {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	text-align: center;
+	overflow: hidden;
+	position: static;
+	
+}
+
+ul {
+	list-style-type: none;
+	background-color: black;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+
+}
+
+li {
+	display: inline;
+	text-align: center;
+}
+
+li a {
+	padding: 4%;
+	color: white;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-variant: small-caps;
+	font-size: 1.2em; 
+
+}
+
+
+
+li a:hover {
+	background-color: white;
+	color: black;
+}
+
+.bodyscroll {
+	width: 100%;
+	height: 60%;
+	overflow: scroll;
+}
+
+.bodycontent {
+	width: 80%;
+	text-align: center;
+	margin: 1em auto;
+}
+
+
+.bodytext {
+	width: 100%;
+	text-align: left;
+	font-family: perpetua, times new roman;
+	font-size: 1.2em;
+	margin: 0 auto;
+}
+
+.bodyimage {
+	float: left;
+	margin: 0 2em 1em 0;
+}
+
+.bodyimage2 {
+	display: inline;
+	float: right;
+	margin-right: 60%;
+	margin-bottom: 1em;
+
+	
+}
+.footer {
+	width: 100%;
+	text-align: center;
+	font-family: garamond;
+	color: black;
+	bottom: 0;
+	clear: left;
+	z-index: 1;
+	font-size: 1em;
+}
+
+h4 {
+	font-style: italic;
+	font-family: times new roman;
+}
+
+h4 a {
+	text-decoration: none;
+	color: black;
+}
+h4 a:hover {
+	color: white;
+	background-color: black;
+	font-style: italic;
+	font-family: times new roman;
+}
+
+h2 {
+	font-family: arial black, sans-serif;
+	font-weight: 900;
+}
+
+.aboutbody {
+	overflow: scroll;
+	width: 100%;
+	height: 100%;
+	display: block;
+	position: absolute;
+}
+
+.columns {
+	margin: 0 auto;
+	width: 95%;
+	height: 80%;
+	overflow: scroll;
+}
+
+.column1 {
+	width: 30%;
+	display: inline;
+	float: left;
+	margin: 1em 3em 0em 1em;
+}
+
+.column2 {
+	width: 30%;
+	display: inline;
+	float: left;
+	margin: 1em 3em 0em 0em;
+}
+.column3 {
+	width: 30%;
+	display: inline;
+	float: left;
+	margin: 1em 0em 0em 0em;
+}
+
+.validate {
+	position: fixed;
+	bottom: 0;
+	color: white;
+}
+
+.validate a {
+	color: blue;
+}
+
+	
